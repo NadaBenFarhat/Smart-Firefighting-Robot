@@ -160,12 +160,12 @@ The user can remotely control the robot.
 
 Command	Action
 
-F	Move Forward
-B	Move Backward
-L	Turn Left
-R	Turn Right
-P	Pump ON
-C	Pump OFF
+F	Move Forward;
+B	Move Backward;
+L	Turn Left;
+R	Turn Right;
+P	Pump ON;
+C	Pump OFF;
 
 
 
