@@ -339,13 +339,6 @@ Possible improvements:
 
 ---
 
-# 👩‍💻 Author
-
-**Nada Ben Farhat**
-
-Embedded Systems Engineering Student  
-ISSAT Sousse
-
-GitHub:
-
-https://github.com/NadaBenFarhat
+<div align="center">
+💬 Questions or interested in collaborating? <a href="mailto:nadafarhat396@gmail.com">Reach out!</a>
+</div>
