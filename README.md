@@ -51,6 +51,7 @@ The main objectives of this project are:
 <p align="center">
 🔥 Detect → 📍 Localize → 🚗 Navigate → 💧 Extinguish
 </p>
+
 ---
 
 # ⚙️ Firmware Features & Logic
