@@ -1,5 +1,6 @@
-# 🤖 Smart Autonomous & Remote-Controlled Firefighting Robot
-
+<div align="center">
+# 🔥 Smart Autonomous & Remote-Controlled Firefighting Robot
+</div>
 <p align="center">
   <b>An Embedded Robotics System for Fire Detection, Autonomous Navigation, and Fire Suppression</b>
 </p>
