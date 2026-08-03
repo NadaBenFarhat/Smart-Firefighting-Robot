@@ -9,9 +9,6 @@
   <img src="assets/firefighting_robot_banner.gif" width="900">
 </p>
 
-<p align="center">
-🔥 Detect → 📍 Localize → 🚗 Navigate → 💧 Extinguish
-</p>
 <div align="center">
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -50,7 +47,9 @@ The main objectives of this project are:
 - ✅ Provide Bluetooth-based manual control
 - ✅ Automatically activate the water pump
 - ✅ Send status feedback during operation
-
+<p align="center">
+🔥 Detect → 📍 Localize → 🚗 Navigate → 💧 Extinguish
+</p>
 ---
 
 # ⚙️ Firmware Features & Logic
