@@ -11,7 +11,14 @@
 <p align="center">
 🔥 Detect → 📍 Localize → 🚗 Navigate → 💧 Extinguish
 </p>
-
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+</p>
+</div>
 ---
 
 # 📌 Project Overview
